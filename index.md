@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 皮卡智能
 
 You can use the [editor on GitHub](https://github.com/picup-shop/picup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
